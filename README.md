@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fiqar
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning Vue/JS/Node
-- 📫 How to reach me email me (fiqarsilmy@gmail.com)
+- 📫 How to reach me : you can email me at fiqarsilmy@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
