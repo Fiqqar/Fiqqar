@@ -2,9 +2,8 @@
 - 👋 Hi, I’m Fiqar
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Vue.js
-- 📫 How to reach me : you can email me at fiqarsilmy@gmail.com
 - 😄 Pronouns: he/him
-- 📫 How to reach me : Go to my social media below 👇
+- 📫 How to reach me : Go to my social media below 👇 or  you can email me at fiqarsilmy@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fiqarsilmy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@gayungblmmandi) 
