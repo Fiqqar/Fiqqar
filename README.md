@@ -2,6 +2,7 @@
 - 👋 Hi, I’m Fiqar
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Vue.js
+- 📝 Planning to learn Nuxt.js
 - 😄 Pronouns: he/him
 - 📫 How to reach me : Go to my social media below 👇 or  you can email me at fiqarsilmy@gmail.com
 
