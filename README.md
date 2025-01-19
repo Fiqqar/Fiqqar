@@ -1,5 +1,10 @@
 # 💫 About Me:
-- 👋 Hi, I’m Fiqar<br> - 👀 I’m interested in Web Development<br> - 🌱 I’m currently learning Vue.js<br> - 📝 Planning to learn Nuxt.js<br> - 😄 Pronouns: he/him<br> - 📫 How to reach me : Go to my social media below 👇 or  you can email me at fiqarsilmy@gmail.com
+- 👋 Hi, I’m Fiqar<br>
+- 👀 I’m interested in Web Development<br>
+- 🌱 I’m currently learning Vue.js<br>
+- 📝 Planning to learn Nuxt.js<br>
+- 😄 Pronouns: he/him<br>
+- 📫 How to reach me : Go to my social media below 👇 or  you can email me at fiqarsilmy@gmail.com
 
 
 ## 🌐 Socials:
@@ -11,6 +16,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=Fiqqar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Fiqqar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiqqar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Fiqqar&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
