@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web Development<br>
 - 🌱 I’m currently learning Nuxt.js<br>
 - 😄 Pronouns: he/him<br>
-- 📫 How to reach me : Go to my social media below 👇 or  you can email me at fiqarsilmy@gmail.com
+- 📫 How to reach me : Go to my social media below 👇 or email me at fiqarsilmy@gmail.com
 
 
 ## 🌐 Socials:
