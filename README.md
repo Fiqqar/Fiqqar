@@ -19,6 +19,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Fiqqar&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
+## TryHackMe
+![](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6510375)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
