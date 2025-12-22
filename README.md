@@ -20,7 +20,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Fiqqar&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ## TryHackMe
-<p align="center">
+<p>
   <a href="https://tryhackme.com/p/Fiqqar">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Fiqqar.png" width="350" alt="TryHackMe Badge"/>
   </a>
