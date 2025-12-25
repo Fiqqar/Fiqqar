@@ -22,7 +22,7 @@
 ## TryHackMe
 <p>
   <a href="https://tryhackme.com/p/Fiqqar">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Fiqqar.png" width="350" alt="TryHackMe Badge"/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Fiqqar.png" width=350 alt="Your Image Badge" />
   </a>
 </p>
 
