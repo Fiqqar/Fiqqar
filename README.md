@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m Fiqar<br>
-- 👀 I’m interested in Game Development<br>
-- 🌱 I’m currently learning Unreal & Unity<br>
+- 👀 I’m interested in Cybersecurity<br>
+- 🌱 I’m currently learning Web Exploitation<br>
 - 😄 Pronouns: he/him<br>
 - 📫 How to reach me : Go to my social media below 👇 or email me at fiqarsilmy@gmail.com
 
