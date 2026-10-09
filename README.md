@@ -2,7 +2,7 @@
 
 Software and game developer with experience in Unity, C#, backend, and full-stack development. Participated in multiple game and software development competitions.
 
-Currently a QA Intern at RECTmedia. Interested in backend engineering, software quality, DevOps, and cybersecurity through Capture The Flag (CTF) competitions and bug hunting.
+Currently a Quality Assurance Intern at RECTmedia. Interested in backend engineering, software quality, DevOps, and cybersecurity through Capture The Flag (CTF) competitions and bug hunting.
 
 - 🌐 Website: [zulfiqar.dev](https://zulfiqar.dev)
 - 📫 Email: [fiqarsilmy@gmail.com](mailto:fiqarsilmy@gmail.com)
