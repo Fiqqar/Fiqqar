@@ -1,32 +1,50 @@
-# 💫 About Me:
-- 👋 Hi, I’m Fiqar<br>
-- 👀 I’m interested in Cybersecurity<br>
-- 🌱 I’m currently learning Web Exploitation<br>
-- 😄 Pronouns: he/him<br>
-- 📫 How to reach me : Go to my social media below 👇 or email me at fiqarsilmy@gmail.com
+# 💫 About Me
 
+Software and game developer with experience in Unity, C#, backend, and full-stack development. Participated in multiple game and software development competitions.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fiqarsilmy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zulfiqar-silmy-setiawan-604190324/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@gayungblmmandi) 
+Currently a QA Intern at RECTmedia. Interested in backend engineering, software quality, DevOps, and cybersecurity through Capture The Flag (CTF) competitions and bug hunting.
 
-# 💻 Tech Stack:
+- 🌐 Website: [zulfiqar.dev](https://zulfiqar.dev)
+- 📫 Email: [fiqarsilmy@gmail.com](mailto:fiqarsilmy@gmail.com)
+- 😄 Pronouns: he/him
+
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fiqarsilmy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zulfiqar-silmy-setiawan-604190324/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@gayungblmmandi)
+
+## 💻 Tech Stack
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
+
+## 🚀 Featured Projects
+
+- **[Relay](https://github.com/Fiqqar/Relay)** - AI-assisted Git workflow automation with Conventional Commits.
+- **[Leetcode](https://github.com/Fiqqar/Leetcode)** - Solutions to algorithm and data structure problems.
+- **[CTF2](https://github.com/Fiqqar/CTF2)** - Cybersecurity challenges and resources for the SMK RUS cybersecurity team.
+- **[Swift_Backend](https://github.com/Fiqqar/Swift_Backend)** - Backend project for COMPFEST 18 AI Innovation Challenge.
+- **[Quarry](https://github.com/Fiqqar/Quarry)** - A web application for turning raw HTTP evidence into structured vulnerability reports.
+- **[url-shortener-platform](https://github.com/Fiqqar/url-shortener-platform)** - A URL shortener and analytics platform exploring DevOps practices.
+
+## 📊 GitHub Stats
+
 ![](https://github-readme-stats.shion.dev/api?username=Fiqqar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Fiqqar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiqqar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+
 ![](https://trophy.ryglcloud.net/?username=FIqqar&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400)
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fiqqar/Fiqqar/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fiqqar/Fiqqar/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Fiqqar/Fiqqar/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Fiqqar/Fiqqar/output/github-snake.svg" />
 </picture>
 
 ---
+
 ![](https://komarev.com/ghpvc/?username=fiqqare&style=flat-square&abbreviated=true)
